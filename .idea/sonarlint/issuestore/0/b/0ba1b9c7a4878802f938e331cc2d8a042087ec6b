@@ -1,0 +1,8 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(«˜â±8ÏÍ¨õ§1
+L	java:S106"+Replace this use of System.out by a logger.(´§Üäıÿÿÿÿ8î®ì£«1
+G	java:S106""+Replace this use of System.out by a logger.(Û’Ô8—Ãí£«1
+T
+java:S1128"2Remove this unused import 'org.hibernate.Session'.(È¹›§ùÿÿÿÿ8§„î£«1
+S
+java:S1128"6Remove this unused import 'org.hibernate.Transaction'.(ìÌè³8§„î£«1
